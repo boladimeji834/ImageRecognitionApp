@@ -1,0 +1,44 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 497-798-952
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:32:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:32:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction: leatherback_turtle (41.82%)
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:34:33] "POST / HTTP/1.1" 200 -
+INFO:root:Prediction: sorrel (69.08%)
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:37:52] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\genericpath.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 497-798-952
+INFO:root:Prediction: sorrel (69.08%)
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:51:39] "POST / HTTP/1.1" 200 -
+INFO:root:Prediction: sorrel (69.08%)
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:52:50] "POST / HTTP/1.1" 200 -
+INFO:root:Prediction: sorrel (69.08%)
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:58:09] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:58:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Prediction: sorrel (69.08%)
+INFO:werkzeug:127.0.0.1 - - [16/Sep/2024 13:58:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 497-798-952
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2024 18:50:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 497-798-952
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\Desktop\\New Folder\\ImageClassification\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Balogun Oladimeji\\Desktop\\New Folder\\ImageClassification\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 497-798-952
