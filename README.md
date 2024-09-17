@@ -1,4 +1,3 @@
-
 Image Classification Web App
 ===========================
 
